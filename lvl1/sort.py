@@ -26,8 +26,8 @@ def sort_bop(input_file: str, output_file: str):
 
 # Example usage
 if __name__ == "__main__":
-    sort_bop("lvl1/level_1_a.in", "lvl1/level_1_a_sol.txt")
-    #sort_bop("lvl1/level_2_a.in", "lvl1/level_2_a_sol.txt")
-    #sort_bop("lvl1/level_3_a.in", "lvl1/level_3_a_sol.txt")
-    #sort_bop("lvl1/level_4_a.in", "lvl1/level_4_a_sol.txt")
-    #sort_bop("lvl1/level_5_a.in", "lvl1/level_5_a_sol.txt")
+    sort_bop("ccc25/lvl1/in/level_1_a.in", "ccc25/lvl1/out/level_1_a_sol.txt")
+    sort_bop("ccc25/lvl1/in/level_1_b.in", "ccc25/lvl1/out/level_1_b_sol.txt")
+    sort_bop("ccc25/lvl1/in/level_1_c.in", "ccc25/lvl1/out/level_1_c_sol.txt")
+    sort_bop("ccc25/lvl1/in/level_1_d.in", "ccc25/lvl1/out/level_1_d_sol.txt")
+    sort_bop("ccc25/lvl1/in/level_1_e.in", "ccc25/lvl1/out/level_1_e_sol.txt")
